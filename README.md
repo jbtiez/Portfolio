@@ -1,3 +1,12 @@
+## My Data Science Projects
+
+## Data Visual for Capstone Project
+
+[link to visual](https://jbtiez.github.io/Demos.io/)
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jbtiez/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

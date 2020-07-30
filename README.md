@@ -1,8 +1,9 @@
-## My Data Science Projects
+Welcome to my Data Science Portfolio. 
 
-## Data Visual for Capstone Project
+## Gender, Politics & Twitter
 
-[link to visual](https://jbtiez.github.io/Demos.io/)
+- As part of my master's program at UVA, we created a pipeline to capture Tweets about the 2020 democratic primary, and then analyzed whether there were differences in how Twitter talked about  male vs. female candidates. 
+- As part of the project, I created an interactive visual in D3 that shows the relative word usages when Twitter discussed male and female candidates. You can find the visual [here](https://jbtiez.github.io/Demos.io/).
 
 
 
@@ -37,10 +38,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jbtiez/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

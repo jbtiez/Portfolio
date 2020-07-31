@@ -8,8 +8,8 @@ Welcome to my Data Science Portfolio!
 
 ## Text Analytics of Cookbooks
 - In this project, we analyzed differences in cookbooks from mid-1800s through early 1900s (Whole project [here](https://github.com/jbtiez/Cookbooks_ETA))
-- We utilized  [TF-IDF](https://github.com/jbtiez/Cookbooks_ETA/blob/master/TFIDF.ipynb) [PCA](https://github.com/brigittehogan/Cookbook-Analytics/blob/master/PCA.ipynb), which showed how terms of measurement for recipes became more precise as time went on. 
-- We also used [topics models](https://github.com/jbtiez/Cookbooks_ETA/blob/master/LDA.ipynb) to show that dessert and fruit receipes became mroe common as time passed. This also showed that recipes used more terms of meaurement as time passed.  
-- We used [word embeddings](https://github.com/jbtiez/Cookbooks_ETA/blob/master/Word_Embeddings.ipynb) to explore the differences of how measurement terms were used, showing that in earlier cookbooks, words like "sprinkle" and "season" were used in similar contexts to spices, while in later cookbooks, "teaspoon" and "tablespoon" were closely associated with spices.  
+- We utilized  [TF-IDF](https://github.com/jbtiez/Cookbooks_ETA/blob/master/TFIDF.ipynb) and [PCA](https://github.com/brigittehogan/Cookbook-Analytics/blob/master/PCA.ipynb), which showed how terms of measurement for recipes (e.g., cup, tablespoon, teaspoon) became far more common as time passed. 
+- We also used [topics models](https://github.com/jbtiez/Cookbooks_ETA/blob/master/LDA.ipynb) to show that dessert and fruit receipes became mroe common as time passed. Topic models also supported our earlier findings regarding terms of measurement. 
+- We used [word embeddings](https://github.com/jbtiez/Cookbooks_ETA/blob/master/Word_Embeddings.ipynb) to explore how measurement terms were used over time, showing that in earlier cookbooks, words like "sprinkle" and "season" were used in similar contexts to spices, while in later cookbooks, "teaspoon" and "tablespoon" were closely associated with spices. .  
 - We explored applying several standard sentiment methods to the domain of cookbooks (see [here](https://github.com/jbtiez/Cookbooks_ETA/blob/master/Sentiment%20Analysis.ipynb), and showed they are poorly suited to the domain of cookbooks
 
